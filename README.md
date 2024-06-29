@@ -50,8 +50,7 @@ The dataset includes customer demographics, account information, service usage, 
 - Optimized for Accuracy and F1-score.
 - Evaluated models using Confusion Matrix, ROC-AUC, Precision, Recall, and F1-score.
 
-![task1](https://github.com/Harsha7999/ML-Internship/assets/138028961/714d3338-643d-4cec-b6f1-9bb837e2d712)
-
+![task1](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/cfaaf184-db20-4268-a344-f25f7cb56f7d)
 
 ## Results (example)
 
@@ -91,7 +90,7 @@ The dataset includes daily weather observations from multiple Australian weather
 - `RainToday`: Whether it rained today (Yes/No)
 - `RainTomorrow`: Target variable indicating if it will rain tomorrow (Yes/No)
 
-![task2](https://github.com/Harsha7999/ML-Internship/assets/138028961/2cc5b5c4-1e41-4826-b46a-a880114fae2f)
+![task2](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/0a471ef4-f316-4d01-bbb6-0b388215338e)
 
 **Preprocessing Steps:**
 - Handled missing values by imputing or removing incomplete entries.
@@ -159,7 +158,7 @@ The dataset includes tweets labeled as indicating a disaster or not. Key feature
 - `text`: The text of the tweet
 - `target`: Target variable indicating if the tweet is about a disaster (1) or not (0)
 
-![task3](https://github.com/Harsha7999/ML-Internship/assets/138028961/cb244057-d0b7-4b21-8bf2-daad9be16de4)
+![task3](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/7c46232b-edec-4599-a157-b533e486b9cc)
 
 **Preprocessing Steps:**
 - Cleaned text data by removing stopwords, punctuation, and URLs.
@@ -280,7 +279,7 @@ This project aims to predict the Remaining Useful Life (RUL) of jet engines base
 - Tracked training and validation loss over epochs.
 - Visualized actual vs. predicted RUL for the test set.
 
-![task4](https://github.com/Harsha7999/ML-Internship/assets/138028961/15469443-e282-4f1f-929b-c63094c43faa)
+![task4](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/89116a60-eaa0-4b51-9f85-22181fe4b7de)
 
 ## Results
 **Final Model Performance:**
