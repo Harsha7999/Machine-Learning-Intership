@@ -15,6 +15,7 @@
 5. **Training**: The process of feeding data into the machine learning algorithm and adjusting the model to minimize error.
 
 6. **Testing**: Evaluating the model on a separate dataset to assess its performance.
+
 ![Screenshot 2024-06-29 114222](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/c865370e-b606-47a2-9997-7dbbc4a47c66)
 
 
@@ -50,6 +51,7 @@
 5. **Machine Learning**: Building models to make predictions or classify data.
 6. **Data Visualization**: Creating charts and graphs to communicate insights.
 7. **Deployment and Monitoring**: Implementing data science solutions in a real-world context and monitoring their performance.
+
 ![Screenshot 2024-06-29 113501](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/c8c41956-e852-44e5-bfcd-7bf087a344e7)
 
 ### How Data Science is Involved in Machine Learning
@@ -73,16 +75,20 @@
 To help understand the concepts better, here are some visual aids:
 
 1. **Machine Learning Workflow**:
+
 ![Screenshot 2024-06-29 113219](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/79f3aa34-31e7-4a03-bd6a-9d54a6151a3d)
    
 2. **Types of Machine Learning**:
+
  ![mlss1](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/23532dcc-9039-44a9-9577-523b8ae4e634)
 
 3. **Data Science Process**:
+
 ![Screenshot 2024-06-29 114518](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/b92f3bec-9d93-43b3-a1e0-337162e54c33)
 
 
 4. **Supervised vs Unsupervised Learning**:
+
 ![1632916005843](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/a58edc7b-2b31-4e14-9f25-0344fcdf025c)
 
 
