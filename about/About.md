@@ -79,7 +79,8 @@ To help understand the concepts better, here are some visual aids:
  ![mlss1](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/23532dcc-9039-44a9-9577-523b8ae4e634)
 
 3. **Data Science Process**:
-![mlss2](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/a4031909-a0da-4bed-b134-7bc144f1b472)
+![Screenshot 2024-06-29 114518](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/b92f3bec-9d93-43b3-a1e0-337162e54c33)
+
 
 4. **Supervised vs Unsupervised Learning**:
 ![1632916005843](https://github.com/Harsha7999/Machine-Learning-Intership/assets/138028961/a58edc7b-2b31-4e14-9f25-0344fcdf025c)
